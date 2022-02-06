@@ -1,5 +1,7 @@
 # Overview
-This is a Inventory Software. It will allow you to save items into a file 
+This is a Inventory Software. It will allow you to save items into a file
+and anytime you want to add new items you can start a new file or open the 
+existing file and have your items displayed to the screen. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -16,7 +18,6 @@ This is a Inventory Software. It will allow you to save items into a file
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add a remove functionality
+* Make this into a Mobile App
+* Add an option to display the entire list at any point while entering items.

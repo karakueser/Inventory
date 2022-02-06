@@ -11,11 +11,6 @@ public class Main {
         System.out.println("These are the items you have: ");
         file.readEntry(s -> System.out.println(s));
 
-//        String entry = data.getEntry();
-//        while(!entry.isEmpty()){
-//            file.addEntry(entry);
-//            entry = data.getEntry();
-//        }
         System.out.println("Hit enter twice to save items");
         for (String entry = user.getEntry(); !entry.isEmpty(); entry = user.getEntry()) {
             file.addEntry(entry);
