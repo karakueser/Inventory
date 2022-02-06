@@ -3,7 +3,7 @@ This is a Inventory Software. It will allow you to save items into a file
 and anytime you want to add new items you can start a new file or open the 
 existing file and have your items displayed to the screen. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+
 
 # Development Environment
 
